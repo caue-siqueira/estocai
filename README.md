@@ -1,4 +1,4 @@
-### Estocai
+# Estocai
 🧮 Sistema de Controle de Estoque
 
 Sistema completo de controle de estoque desenvolvido com Laravel e Filament Admin Panel, com recursos de dashboard, alertas, movimentações, relatórios, permissões de usuário e muito mais.
@@ -36,6 +36,7 @@ Sistema completo de controle de estoque desenvolvido com Laravel e Filament Admi
 
 Pré-requisitos: PHP 8.1+, Composer, MySQL ou SQLite, Node.js (opcional)
 
+```bash
 git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 cp .env.example .env
@@ -44,10 +45,12 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
-Acesse em: http://localhost:8000
+```
+
+ Acesse em: http://localhost:8000
 
 📄 Exemplo de .env
-
+```bash
 APP_NAME=Estoque
 APP_ENV=local
 APP_KEY=base64:...
@@ -60,7 +63,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 FILESYSTEM_DISK=public
-
+```
 🛠️ Planejamentos futuros
 
 - [ ] Log de atividades do sistema (quem fez o quê)
