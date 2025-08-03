@@ -77,8 +77,8 @@ FILESYSTEM_DISK=public
 Desenvolvido por Cauê
 Entre em contato:
 
-- LinkedIn: https://linkedin.com/in/seu-link
-- GitHub: https://github.com/seu-usuario
+- LinkedIn: https://linkedin.com/in/caue-siqueira
+- GitHub: https://github.com/caue-siqueira
 
 📝 Licença
 
