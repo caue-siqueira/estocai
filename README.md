@@ -75,6 +75,7 @@ FILESYSTEM_DISK=public
 👨‍💻 Autor
 
 Desenvolvido por Cauê
+
 Entre em contato:
 
 - LinkedIn: https://linkedin.com/in/caue-siqueira
